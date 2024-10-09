@@ -2,4 +2,6 @@
   "url": "https://example.com",
   "name": "Construct 3",
   "iconUrl": "https://raw.githubusercontent.com/lostinmindd/lost-c3-examples/refs/heads/main/icon_api_wallet_512.png",
+  "termsOfUseUrl": "https://example.com",
+  "privacyPolicyUrl": "https://example.com"
 }
